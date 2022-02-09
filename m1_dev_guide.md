@@ -72,8 +72,10 @@ Install a Python version:
     pyenv install 3.9.9
     pyenv global 3.9.9
 
-List of versions: https://www.python.org/doc/versions/
+List of versions: https://www.python.org/doc/versions/ or use this:
 
+    pyenv install -l
+    
 # Node.js
 
 While you can install node from https://nodejs.org/en/ using nvm is easier and allows you to switch between different versions (similar to rbenv/pyenv).
