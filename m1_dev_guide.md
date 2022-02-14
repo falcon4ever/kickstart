@@ -137,3 +137,4 @@ Other tools/apps I use:
 * https://bitwarden.com/
 * https://www.texstudio.org/
 * https://tunnelblick.net/
+* https://giphy.com/apps/giphycapture - Great tool to capture a short video/GIF and attach it to a JIRA ticket ;)
