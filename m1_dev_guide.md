@@ -10,27 +10,19 @@ I highly recommend using this [Generating a new SSH key and adding it to the ssh
 
 GitHub is also a nice place to store your public/private projects.
 
-# Arm64 & x86-64 Terminals
+# Firefox
 
-While things are transitioning from the x86-64 cpu architecture to Arm64 (AArch64) you will run into situations where you need to run apps in x86-64 mode. While less ideal, the Rosetta 2 technology is trying to make this as painless as possible.
+https://www.mozilla.org/en-US/firefox/
 
-A thing I like to do is having separate terminal apps to run apps. You can do so to:
-- Open up **Finder** and go to the **Applications** folder.
-- In the **Utilities** folder copy the **Terminal** app and call it something like **Rosetta Terminal**.
-- Right-click the **Rosetta Terminal** app and click on **Get info**.
-- Check **Open using Rosetta**
-- Optionally you can change the app icon
-- ![Rosetta](./images/rosetta.png)
+## Addons
 
-Now, when you open up the terminal, the app icon can help but you can use this trick to make it even more clear:
-- open up your `.zshrc` file and add this at the end:
+- [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager)
+- [Zoom Recording Downloader](https://addons.mozilla.org/en-US/firefox/addon/zoom-recording-downloader2)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
+- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers)
+- [Nudiflorum: display absolute date on GitHub](https://addons.mozilla.org/en-US/firefox/addon/nudiflorum)
 
-        # Show Terminal architecture
-        echo "**********"
-        echo -n "* "; uname -m
-        echo "**********"
-
-- Next time you open either terminal it will tell you if you're in `arm64` or `x86_64` mode ![Terminal](./images/terminal.png)
 
 # XCode(s)
 
@@ -56,9 +48,9 @@ Install is super easy, just follow the guide:
 
 # Java / OpenJDK
 
-For [Android development](https://developer.android.com/) you probably will need a JDK. You could use the embedded one or [Azul Zulu OpenJDK](https://www.azul.com/downloads/?version=java-11-lts&os=macos&package=jdk) is a great alternative (especially if you plan to do some KMM or Java development).
+For [Android development](https://developer.android.com/) you probably will need a JDK. You could use the embedded one or [Adoptium Temurin](https://adoptium.net/) is a great alternative (especially if you plan to do some KMM or Java development).
 
-The link above will take you to the `Java 11 (LTS)` version. Select `macOS`, `ARM64-bit` and the `JDK`. Download the dmg & install.
+The link above will take you to the `Java 21 (LTS)` version.
 
 # Python
 
@@ -69,8 +61,8 @@ Follow these instructions to install pyenv:
 
 ## Install a Python version and make it globally available:
 
-    pyenv install 3.9.10
-    pyenv global 3.9.10
+    pyenv install 3.13.1
+    pyenv global 3.13.1
 
 List of versions: https://www.python.org/doc/versions/
 
@@ -130,12 +122,11 @@ Sometimes it's nicer to use one app to manage all your repos: https://www.source
 # Notes
 
 Other tools/apps I use:
-* https://folivora.ai/bettersnaptool
+* https://rectangleapp.com/
 * https://bjango.com/mac/istatmenus/
 * https://signal.org/en/download/
-* https://brave.com/
 * https://bitwarden.com/
 * https://www.texstudio.org/
-* https://tunnelblick.net/
 * https://giphy.com/apps/giphycapture - Great tool to capture a short video/GIF and attach it to a JIRA ticket ;)
 * https://github.com/sbarex/SourceCodeSyntaxHighlight - Allows Finder to show the content of many source code files (like Kotlin)
+* https://signal.org/
