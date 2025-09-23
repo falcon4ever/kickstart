@@ -130,3 +130,5 @@ Other tools/apps I use:
 * https://giphy.com/apps/giphycapture - Great tool to capture a short video/GIF and attach it to a JIRA ticket ;)
 * https://github.com/sbarex/SourceCodeSyntaxHighlight - Allows Finder to show the content of many source code files (like Kotlin)
 * https://signal.org/
+* https://localsend.org/
+* https://proxyman.com/
