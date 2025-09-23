@@ -15,13 +15,11 @@ GitHub is also a nice place to store your public/private projects.
 https://www.mozilla.org/en-US/firefox/
 
 ## Addons
-
-- [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager)
-- [Zoom Recording Downloader](https://addons.mozilla.org/en-US/firefox/addon/zoom-recording-downloader2)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
-- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
+- [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager)
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers)
-- [Nudiflorum: display absolute date on GitHub](https://addons.mozilla.org/en-US/firefox/addon/nudiflorum)
+- [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- [Zoom Recording Downloader](https://addons.mozilla.org/en-US/firefox/addon/zoom-recording-downloader2)
 
 
 # XCode(s)
@@ -104,7 +102,7 @@ Follow these instructions:
 # Docker
 
 Follow 🐳: 
-* https://www.docker.com/get-started
+* https://www.docker.com/
 * Get Docker Desktop and pick the right architecture: Mac Apple Chip
 
 # JetBrains Toolbox
@@ -123,12 +121,11 @@ Sometimes it's nicer to use one app to manage all your repos: https://www.source
 
 Other tools/apps I use:
 * https://rectangleapp.com/
-* https://bjango.com/mac/istatmenus/
 * https://signal.org/en/download/
 * https://bitwarden.com/
-* https://www.texstudio.org/
-* https://giphy.com/apps/giphycapture - Great tool to capture a short video/GIF and attach it to a JIRA ticket ;)
-* https://github.com/sbarex/SourceCodeSyntaxHighlight - Allows Finder to show the content of many source code files (like Kotlin)
 * https://signal.org/
 * https://localsend.org/
 * https://proxyman.com/
+* https://www.blender.org/
+* https://godotengine.org/
+* https://hexfiend.com/
