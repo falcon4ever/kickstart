@@ -121,11 +121,12 @@ Sometimes it's nicer to use one app to manage all your repos: https://www.source
 
 Other tools/apps I use:
 * https://rectangleapp.com/
-* https://signal.org/en/download/
 * https://bitwarden.com/
+* https://ente.io/auth/
 * https://signal.org/
 * https://localsend.org/
 * https://proxyman.com/
 * https://www.blender.org/
-* https://godotengine.org/
 * https://hexfiend.com/
+* https://formulae.brew.sh/formula/ncdu
+* https://firebender.com/
