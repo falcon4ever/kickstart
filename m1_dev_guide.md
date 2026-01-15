@@ -19,6 +19,7 @@ https://www.mozilla.org/en-US/firefox/
 - [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager)
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- [Archive Page](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) - Bypass Paywall
 - [Zoom Recording Downloader](https://addons.mozilla.org/en-US/firefox/addon/zoom-recording-downloader2)
 
 
